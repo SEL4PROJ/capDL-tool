@@ -1,3 +1,8 @@
+WARNING
+=======
+
+This repository has been deprecated and can now be found at https://github.com/seL4/capdl.
+
 capDL-tool
 ==========
 
